@@ -1,12 +1,8 @@
-import java.util.LinkedHashSet;
-import java.util.Scanner;
-import java.util.Set;
-import java.util.Stack;
+import java.util.*;
 
 public class AllPerfectSquares {
     public static void main(String[] args) {
-
-
+               Map<Integer,Integer>m =new HashMap<>();
        // Set(interface) is just like dynamic array and it doesnot allow the dublicate values
         //LinkedHashSet class for ordered and unsorted set
         Set<Double> s=new LinkedHashSet<>();
@@ -27,7 +23,6 @@ public class AllPerfectSquares {
         System.out.println(s);
 
     }
-
 
 
 }
