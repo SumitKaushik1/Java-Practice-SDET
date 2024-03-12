@@ -4,7 +4,7 @@
 - Pallindrome
 - LexicographicalLettersAndRemoveDublicates
 - RhombusTriangle
-- Inheritance.java
+- Inheritance
 - MissingNumbers
 - Prime
 - NextPrimeNumber
