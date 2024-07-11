@@ -1,4 +1,5 @@
 # Java-Practice-SDET
+these are java practice questions
  
 - AllPerfectSquares
 - Pallindrome
